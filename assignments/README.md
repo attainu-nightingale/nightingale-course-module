@@ -27,11 +27,11 @@ Remember to change your default branch to `dev` before proceeding.
 >
 > Due day: _day-1_
 
-#### Weekly Test: Create an html document which should look like the below screenshot
+#### Weekly Test: Create an html document which should look like the screenshot
 
-![html-screenshot.png](html-screenshot.png)
+1. You should create a folder called `weekly-test` inside `week01` and put your HTML file inside it.
+2. You have to use the exact tags as mentioned in the screenshot below.
 
-Please note - 
+![union territories](images/union-territories.png)
 
-    1. You have to use the exact tags as mentioned in the screenshot
-    2. You should create a folder called `weekly-test` inside `week01` and put your html file inside it.
+> Due day: _day-3_
