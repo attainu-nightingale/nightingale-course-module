@@ -2,7 +2,7 @@
 
 ## Week 1
 
-#### Day 3: Git commit and push
+### Day 3: Git commit and push
 
 Remember to change your default branch to `dev` before proceeding.
 
@@ -15,7 +15,7 @@ Remember to change your default branch to `dev` before proceeding.
 >
 > Due day: _day-0_
 
-#### Day 4: Creating an HTML page
+### Day 4: Creating an HTML page
 
 1. Create a folder named `day04` inside `week01`.
 2. Create a file named `programming-language-museum.html` inside the `day04` folder.
@@ -27,7 +27,7 @@ Remember to change your default branch to `dev` before proceeding.
 >
 > Due day: _day-1_
 
-#### Weekly Test: Create an html document which should look like the screenshot
+### Weekly Test: Create an html document which should look like the screenshot
 
 1. You should create a folder called `weekly-test` inside `week01` and put your HTML file inside it.
 2. You have to use the exact tags as mentioned in the screenshot below.
