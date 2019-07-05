@@ -26,3 +26,12 @@ Remember to change your default branch to `dev` before proceeding.
 > Solution session: _day-1_
 >
 > Due day: _day-1_
+
+#### Weekly Test: Create an html document which should look like the below screenshot
+
+![html-screenshot.png](html-screenshot.png)
+
+Please note - 
+
+    1. You have to use the exact tags as mentioned in the screenshot
+    2. You should create a folder called `weekly-test` inside `week01` and put your html file inside it.

@@ -7,7 +7,7 @@
 #### Setup
 1. If you are using Windows, you can use the Git Bash terminal bundled with the Git installer as your command line. You can download it from [https://gitforwindows.org/](https://gitforwindows.org/)
 2. If you are using a GNU/Linux system, use the Terminal emulator bundled in your distribution.
-3. If you are on MacOS, you can use the Terminall app installed by default in Mac. You can also checkout iTerm for a more feature rich Terminal.
+3. If you are on MacOS, you can use the Terminal app installed by default in Mac. You can also checkout iTerm for a more feature rich Terminal.
 
 #### Tutorials
 1. [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
