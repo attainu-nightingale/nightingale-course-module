@@ -75,8 +75,9 @@ Contact Us page
 ![contact us](images/bootstrap-company-contact.png)
 
 1. Do not use any custom css styles.
-2. You are free to replace text content.
-3. Put your files under `assignments` > `week02` > `day03`.
+2. Use Bootstrap grid (rows and columns).
+3. You are free to replace text content.
+4. Put your files under `assignments` > `week02` > `day03`.
 
 > Solution session: _day-0_
 >
