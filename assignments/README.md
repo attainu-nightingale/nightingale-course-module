@@ -64,3 +64,20 @@ Remember to change your default branch to `dev` before proceeding.
 > Solution session: _day-0_
 >
 > Due day: _day-0_
+
+### Day 3: Create a company web page using Bootstrap 4
+
+Home page
+![home](images/bootstrap-company-home.png)
+About Us page
+![about us](images/bootstrap-company-about.png)
+Contact Us page
+![contact us](images/bootstrap-company-contact.png)
+
+1. Do not use any custom css styles.
+2. You are free to replace text content.
+3. Put your files under `assignments` > `week02` > `day03`.
+
+> Solution session: _day-0_
+>
+> Due day: _day-0_
