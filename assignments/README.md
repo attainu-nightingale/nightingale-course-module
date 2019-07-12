@@ -98,7 +98,7 @@ Contact Us page
 2
 ```
 4. No HTML or CSS required.
-5. Put your file under `assignments` > `week02` > `day03`.
+5. Put your file under `assignments` > `week02` > `day05`.
 
 > Solution session: _day-0_
 >
