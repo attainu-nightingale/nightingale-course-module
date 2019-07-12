@@ -65,3 +65,63 @@
 2. [HTML5 video introduction](https://dev.opera.com/articles/introduction-html5-video/)
 3. [input tag reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input)
 4. [HTML validator](https://validator.w3.org/)
+
+## 3. CSS
+
+#### Tutorials
+1. [https://htmldog.com/guides/css/](https://htmldog.com/guides/css/)
+2. [https://learn.shayhowe.com/html-css/](https://learn.shayhowe.com/html-css/)
+3. [https://adamschwartz.co/magic-of-css/](https://adamschwartz.co/magic-of-css/)
+
+#### CSS layout tutorials
+1. [Floats](https://css-tricks.com/all-about-floats/)
+2. [Centering elements](https://css-tricks.com/centering-css-complete-guide/)
+3. [CSS layouts](https://css-tricks.com/how-well-do-you-know-css-layout/)
+4. [The box model](https://css-tricks.com/the-css-box-model/)
+5. [Create a simple CSS grid system](https://medium.freecodecamp.org/css-grid-a-simple-layout-design-tutorial-5312a4a8bcaf)
+6. [More CSS floats](https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/)
+7. [CSS positioning in depth](https://alistapart.com/article/css-positioning-101)
+8. [CSS layout - interactive tutorial](http://learnlayout.com/)
+
+#### Reference
+1. [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+2. [https://tympanus.net/codrops/css_reference/](https://tympanus.net/codrops/css_reference/)
+3. [https://cssreference.io/](https://cssreference.io/)
+4. [CSS vocabulary](http://nimbupani.com/css-vocabulary.html)
+5. [Dev Docs](https://devdocs.io/) - Contains documentation for HTML & CSS along with many other open source technologies.
+
+#### Useful CSS libraries
+1. [Eric Meyer's CSS reset](https://meyerweb.com/eric/tools/css/reset/)
+2. [Normalize.css](https://necolas.github.io/normalize.css/)
+3. [Bootstrap](https://getbootstrap.com/)
+
+#### Other links
+1. [Styling lists](http://www.smashingmagazine.com/2009/12/11/styling-html-lists-with-css-techniques-and-resources/)
+2. [CSS validator](https://jigsaw.w3.org/css-validator/)
+3. [Magic of CSS](http://adamschwartz.co/magic-of-css/)
+
+## 4. Javascript
+
+#### Tutorials
+1. [https://htmldog.com/guides/javascript/](https://htmldog.com/guides/javascript/)
+2. [Javascript for cats](http://jsforcats.com/) - Easy one to complete compared to others.
+3. [Eloquent JavaScript book](https://eloquentjavascript.net/)
+4. [Mozilla Developer Network Javascript tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+5. [A re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) From MDN again. Kind of a crash course.
+6. [The JS way](https://github.com/bpesquet/thejsway/)
+7. [You don't know JS](https://github.com/getify/You-Dont-Know-JS) A book about many Javascript language features in detail.
+
+#### Reference
+1. [https://developer.mozilla.org/bm/docs/Web/JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+2. [JS Garden](https://bonsaiden.github.io/JavaScript-Garden/) - A collection of docs about quirky parts of Javascript.
+
+#### Books
+1. [Professional Javascript for web developers](https://www.amazon.in/Professional-Javascript-Web-Developers-WROX/dp/8126535083)
+2. [Javascript: The definitive guide](https://www.amazon.in/JavaScript-Definitive-Guide-Flanagan-David/dp/9350233940/)
+
+#### E6 Specific Resources
+1. [ES6 features in bullet points](https://github.com/bevacqua/es6)
+2. [Understanding ES6 (book) ](https://leanpub.com/understandinges6/read)
+
+#### Further Reading
+1. [JS event loop explained](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
