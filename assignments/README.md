@@ -28,11 +28,11 @@ Remember to change your default branch to `dev` before proceeding.
 > Due day: _day-1_
 
 ### Weekly Test: Create an html document which looks like the provided image
-
-1. You should create a folder called `weekly-test` inside `week01` and put your HTML file inside it.
-2. You have to use the exact tags as mentioned in the screenshot below.
-
 ![union territories](images/union-territories.png)
+
+1. You have to use the exact tags as mentioned in the screenshot below.
+2. Put your files under `assignments` > `week01` > `weekly-test`.
+
 
 > Due day: _day-3_
 
@@ -103,3 +103,19 @@ Contact Us page
 > Solution session: _day-0_
 >
 > Due day: _day-0_
+
+### Weekly Test: Create a shopping page
+![myshop](images/myshop.png)
+
+1. This is an assignment where you are required to build to given specifications.
+2. Create a page which has these sections:
+    1. The header at the top is fixed and does not hide on scroll.
+    2. The next one is for navigation and contains links for categories and a search box. You can use an un-ordered list to do that. This is also fixed and does not hide on scroll.
+    3. On the left we have a sidebar for filters. It has checkboxes
+    4. On the right is the product catalogue including price and other details.
+    5. You have a select dropdown for the 'Sort By' option.
+3. Put your files under `assignments` > `week02` > `weekly-test`.
+
+> Due day: _day-3_
+
+----------
