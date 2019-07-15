@@ -140,3 +140,12 @@ Contact Us page
 > Solution session: _day-0_
 >
 > Due day: _day-0_
+
+### Day 2: Looping and searching
+
+1. Write a Javascript function that takes two inputs - an array and a search value.
+2. Function should search for the search value in the array.
+3. If the element is found, the function should return the position of the element in an array.
+4. If the element is not found, the function should return `-1`.
+5. No HTML or CSS required.
+6. Put your files under `assignments` > `week03` > `day02`.
