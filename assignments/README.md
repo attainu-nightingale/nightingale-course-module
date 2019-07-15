@@ -119,3 +119,24 @@ Contact Us page
 > Due day: _day-3_
 
 ----------
+## Week 3
+
+### Day 1: Print multiplication tables
+
+1. `n` should be entered in a JS prompt on the browser.
+2. The input should be a valid number (use `parseInt`).
+3. The output should be shown on the console in the following format (assuming n is 5):
+```
+1 * 5 = 5
+2 * 5 = 10
+.
+.
+.
+10 * 5 = 50
+```
+4. No HTML or CSS required.
+5. Put your files under `assignments` > `week03` > `day01`.
+
+> Solution session: _day-0_
+>
+> Due day: _day-0_
