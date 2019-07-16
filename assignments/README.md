@@ -149,3 +149,7 @@ Contact Us page
 4. If the element is not found, the function should return `-1`.
 5. No HTML or CSS required.
 6. Put your files under `assignments` > `week03` > `day02`.
+
+> Solution session: _day-0_
+>
+> Due day: _day-0_
