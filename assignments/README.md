@@ -153,3 +153,16 @@ Contact Us page
 > Solution session: _day-0_
 >
 > Due day: _day-0_
+
+
+### Day 3: Handling events
+
+1. Create a `div` with `200px` height and width.
+2. Add two event handlers for the div - `mouseover` and `mouseout`.
+3. The `background-color` of the body should change to `pink` when the mouse hovers on it.
+4. The `background-color` of the body should change to `white` when the mouse moves away from the `div`.
+5. Put your files under `assignments` > `week03` > `day03`.
+
+> Solution session: _day-0_
+>
+> Due day: _day-0_
