@@ -36,3 +36,9 @@ Output: `MSD`
 
 Input: `Shah Rukh Khan`
 Output: `SRK`
+
+### Day 5: Compare two arrays
+
+Write a JavaScript function that compares two arrays and prints whether they are equal or not.
+
+> **Note:** Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order.
