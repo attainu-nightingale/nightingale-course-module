@@ -154,7 +154,6 @@ Contact Us page
 >
 > Due day: _day-0_
 
-
 ### Day 3: Handling events
 
 1. Create a `div` with `200px` height and width.
@@ -166,3 +165,14 @@ Contact Us page
 > Solution session: _day-0_
 >
 > Due day: _day-0_
+
+### Weekly Test: Create a simple calculator
+![calculator](images/calculator.png)
+
+1. Use inputs of type `number`.
+2. Use JS functions as event hadlers on the operation buttons.
+3. Put your files under `assignments` > `week03` > `weekly-test`.
+
+> Due day: _day-3_
+
+----------
