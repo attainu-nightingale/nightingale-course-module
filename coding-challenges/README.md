@@ -42,3 +42,24 @@ Output: `SRK`
 Write a JavaScript function that compares two arrays and prints whether they are equal or not.
 
 > **Note:** Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order.
+
+----------
+## Week 4
+
+### Day 1: Star pattern
+
+Write a JavaScript function that produces a star pattern likes this.
+
+```
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+```
+
+> **Hint:** Nested `for` loop.
