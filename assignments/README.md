@@ -176,3 +176,18 @@ Contact Us page
 > Due day: _day-3_
 
 ----------
+## Week 4
+
+### Day 2: Quiz in jQuery 
+![quiz](images/quiz.png)
+
+1. The application should load a random question from the [quiz.json](data/quiz.json) file.
+2. Once the user types an answer in the text input and clicks Submit, the app should check whether the answer is correct or not. Show a dialog window (prompt) depending upon the right/wrong answer.
+3. Also, once the page is loaded, a timer should be started from 30 seconds and go down till 0 second. Once the timer reaches 0, the user should be shown a message saying that `Time is over!` and he/she should not be able to submit an answer after that.
+4. For styling and layout, please use Bootstrap.
+
+**Hint:** You can correctly use `Math.random()` to get a random number between 1 and 10.
+
+> Solution session: _day-1_
+>
+> Due day: _day-1_
