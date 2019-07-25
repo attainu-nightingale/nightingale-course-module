@@ -76,3 +76,9 @@ The Hamming distance between:
 2. "karolin" and "kerstin" is 3.
 3. 1011101 and 1001001 is 2.
 4. 2173896 and 2233796 is 3.
+
+### Day 4: Ajax
+
+First, load the [cities.json](data/cities.json) using Ajax (either vanilla JavaScript or jQuery is fine).
+
+Then write a Javascript function that takes a letter and finds all the cities that starts with that letter.
