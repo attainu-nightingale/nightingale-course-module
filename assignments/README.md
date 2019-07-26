@@ -202,6 +202,7 @@ Create a JavaScript application that lets the user search for books under a part
 3. Create DOM manipulation methods to show the search result in a table.
 4. Every time a new search is made, make sure to clear out the last set of results.
 5. You are free to use either vanilla JS or jQuery.
+6. For the UI (input and tables), use Bootstrap.
 
 > Due day: _day-3_
 
