@@ -191,3 +191,18 @@ Contact Us page
 > Solution session: _day-1_
 >
 > Due day: _day-1_
+
+### Weekly Test: Library book search
+![library](images/library.png)
+
+Create a JavaScript application that lets the user search for books under a particular language.
+
+1. Use AJAX to load [books.json](data/books.json)
+2. Use an event handler to get the user input from the form.
+3. Create DOM manipulation methods to show the search result in a table.
+4. Every time a new search is made, make sure to clear out the last set of results.
+5. You are free to use either vanilla JS or jQuery.
+
+> Due day: _day-3_
+
+----------
