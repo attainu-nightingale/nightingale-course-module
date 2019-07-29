@@ -79,6 +79,14 @@ The Hamming distance between:
 
 ### Day 4: Ajax
 
-First, load the [cities.json](data/cities.json) using Ajax (either vanilla JavaScript or jQuery is fine).
+First, load [cities.json](data/cities.json) using Ajax (either vanilla JavaScript or jQuery is fine).
 
 Then write a Javascript function that takes a letter and finds all the cities that starts with that letter.
+
+----------
+## Week 5
+
+### Day 1: Ajax 2
+
+Use data from the file [cities.json](data/cities.json) to
+create a function which takes a state as input and loops through the data to output the cities that belong to that state.
