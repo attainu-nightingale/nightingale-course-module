@@ -207,3 +207,13 @@ Create a JavaScript application that lets the user search for books under a part
 > Due day: _day-3_
 
 ----------
+## Week 5
+
+### Day 2: Express routing with req.params
+1. An express application with four routes that perform addition, subtraction, multiplication and division.
+2. The `add` route should take two url parameters and send back their sum.
+3. The `sub` route should take two url parameters and send back their difference.
+4. The `mul` route should take two url parameters and send back their product.
+5. The `div` route should take two url parameters and send back their division result.
+
+> Due day: _day-1_
