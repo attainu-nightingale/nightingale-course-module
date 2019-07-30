@@ -90,3 +90,17 @@ Then write a Javascript function that takes a letter and finds all the cities th
 
 Use data from the file [cities.json](data/cities.json) to
 create a function which takes a state as input and loops through the data to output the cities that belong to that state.
+
+### Day 2: Formatting time
+Write a function that takes a number input in seconds and returns the number of hours, minutes and seconds as output. Separate the number of hours, minutes and seconds with colons `:`.
+
+```
+Input: 126
+Output: "0:2:6"
+
+Input: 45
+Output: "0:0:45"
+
+Input: 3700
+Output: "1:1:40"
+```
