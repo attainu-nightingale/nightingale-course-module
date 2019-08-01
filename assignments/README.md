@@ -217,3 +217,16 @@ Create a JavaScript application that lets the user search for books under a part
 5. The `div` route should take two url parameters and send back their division result.
 
 > Due day: _day-1_
+
+### Day 4: Calculator in Express using post.
+1. Create four routes in Express for add, sub, mul and div.
+2. Each route should take two POST data parameters - `num1` and `num2` in JSON format and do the arithmetic operation on them.
+3. Example output: For sum, the response should look like - 
+```
+{
+    "num1": 20
+    "num2": 50,
+    "result": 70
+}
+```
+4. No need for UI. Everything can be tested using Postman.
