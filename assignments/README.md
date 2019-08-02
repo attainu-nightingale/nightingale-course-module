@@ -210,6 +210,7 @@ Create a JavaScript application that lets the user search for books under a part
 ## Week 5
 
 ### Day 2: Express routing with req.params
+
 1. An express application with four routes that perform addition, subtraction, multiplication and division.
 2. The `add` route should take two url parameters and send back their sum.
 3. The `sub` route should take two url parameters and send back their difference.
@@ -219,6 +220,7 @@ Create a JavaScript application that lets the user search for books under a part
 > Due day: _day-1_
 
 ### Day 4: Calculator in Express using post.
+
 1. Create four routes in Express for add, sub, mul and div.
 2. Each route should take two POST data parameters - `num1` and `num2` in JSON format and do the arithmetic operation on them.
 3. Example output: For sum, the response should look like - 
@@ -230,3 +232,31 @@ Create a JavaScript application that lets the user search for books under a part
 }
 ```
 4. No need for UI. Everything can be tested using Postman.
+
+> Due day: _day-0_
+
+### Weekly Test: Twitter app
+
+1. Store a set of name and tweet data in a variable in Express.
+    ```
+    var tweets = [
+        {
+            name: "digitizer",
+            tweet: "This is a cool piece of information."
+        },
+        {
+            name: "M0SH",
+            tweet: "@digitizer I agree."
+        }
+    ]
+    ```
+2. A default route which displays this data in the UI.
+3. This page displays a form - a _name_ input, a _tweet_ input and a _submit_ button at the end.
+4. A form action handler for the POST request on the submit button. You can post data directly as urlencoded or use JavaScript to post it as JSON.
+4. Update `tweets[]` on a successful POST request.
+5. Also, update the UI to reflect the new tweets that have been posted.
+6. Put your files under `assignments` > `week04` > `weekly-test`.
+
+> Due day: _day-3_
+
+----------

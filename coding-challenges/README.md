@@ -108,7 +108,7 @@ Output: "1:1:40"
 
 ### Day 4: Express CRUD
 
-Create an EXpress application that has routes for creating, adding, updating and deleting a person's contact information - 
+Create an Express application that has routes for creating, adding, updating and deleting a person's contact information - 
 
 ```
 {
