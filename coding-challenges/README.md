@@ -92,6 +92,7 @@ Use data from the file [cities.json](data/cities.json) to
 create a function which takes a state as input and loops through the data to output the cities that belong to that state.
 
 ### Day 2: Formatting time
+
 Write a function that takes a number input in seconds and returns the number of hours, minutes and seconds as output. Separate the number of hours, minutes and seconds with colons `:`.
 
 ```
@@ -114,4 +115,16 @@ Create an EXpress application that has routes for creating, adding, updating and
     name: "Name",
     phone: "phone-no"
 }
+```
+
+### Day 5: URL parameter extraction
+
+Write a function to take a url as a string input and extract all url parameters from it. Return an object contaning these key-value pairs.
+
+```
+Input: "http://localhost:3000/add?num1=5&num2=3"
+Output: { "num1": 5, "num2": 3 }
+
+Input: "http://localhost:3000/search"
+Output: "Missing URL parameters!"
 ```
