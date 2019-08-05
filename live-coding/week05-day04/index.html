@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<head>
+    <title>Testing REST APIs</title>
+</head>
+<body>
+    
+    <h1>This homepage consumes APIs from Express</h1>
+
+    <ul>
+        <li>Anjali Svi - female<button class="delete">DELETE</button></li>
+        <li>Mhd Sadab - male<button class="delete">DELETE</button></li>
+        <li>Gaurav Verma - male<button class="delete">DELETE</button></li>
+    </ul>
+
+    <button>Add Student</button>
+
+
+    <form>
+        <input type="text" id="firstname" name="firstname"/>
+        <input type="text" id="lastname" name="lastname" />
+        <input type="text" id="gender" name="gender" />
+        <button id="put">Modify Student - Put request</button>
+    </form>
+    <button id="btn-delete">Delete Student</button>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+    <script>
+        // $.ajax({
+        //     url: '/getAllStudents',
+        //     type: 'GET',
+        //     dataType: 'json',
+        //     success: function(data) {
+
+        //         $('body').append('<ul></ul>');
+        //         for(var i=0; i<data.length; i++) {
+        //             $('ul').append('<li>'+ data[i].firstname + ' ' + data[i].lastname + ' - ' + data[i].gender + '<button class="delete">DELETE</button>'+'</li>');
+        //         }
+        //     }
+        // });
+
+        $.ajax({
+            url: '/getStudentByName?identity=Anjali',
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+
+                $('body').append('<p></p>');
+                $('p').text(data.firstname + ' ' + data.lastname + ' - ' + data.gender);
+            }
+        });
+
+        // $('button').eq(0).on('click', function() {
+        //     var data = {
+        //         firstname: "Kumar",
+        //         lastname: "Sagar",
+        //         gender: "male"
+        //     };
+        //     $.ajax({
+        //         url: '/addStudent',
+        //         type: 'post',
+        //         contentType: 'application/json',
+        //         dataType: 'json',
+        //         data: JSON.stringify(data),
+        //         success: function (message) {
+        //             alert(JSON.stringify(message));
+        //         }
+        //     });
+        // });
+        
+        $('#put').on('click', function () {
+            var data = {
+                firstname: $('#firstname').val(),
+                lastname: $('#lastname').val(),
+                gender: $('#gender').val()
+            };
+
+            $.ajax({
+                url: '/addStudent/'+ $('#firstname').val(),
+                type: 'put',
+                contentType: 'application/json',
+                dataType: 'json',
+                data: JSON.stringify(data),
+                success: function (message) {
+                    alert(JSON.stringify(message));
+                }
+            });
+        });
+
+        $('.delete').on('click', function () {
+            var studentName = $(this).parent().text().split(' ')[0];
+            console.log(studentName);
+
+            var listItem = $(this).parent();
+
+            $.ajax({
+                url: '/addStudent/' + studentName,
+                type: 'delete',
+                dataType: 'json',
+                success: function (message) {
+                    listItem.hide();
+                    alert(JSON.stringify(message));
+                }
+            });
+        });
+
+    </script>
+</body>
+</html>
