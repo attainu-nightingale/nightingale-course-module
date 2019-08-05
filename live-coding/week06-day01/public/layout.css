@@ -1,0 +1,14 @@
+header {
+    height: 40px;
+    line-height: 40px;
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 2px 2px #ccc;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+}
