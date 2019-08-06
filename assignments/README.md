@@ -260,3 +260,28 @@ Create a JavaScript application that lets the user search for books under a part
 > Due day: _day-3_
 
 ----------
+## Week 6
+
+### Day 2: About Me
+
+1. Refer to the assignment on week02-day01 and create and convert it to a backend assignment.
+2. Store your details in an object, e.g.
+```
+var me = {
+    firstname: "Ruhan",
+    lastname: "Khandakar",
+    bio: "Hi I am Ruhan. I belongs to Cooch Behar from beautiful West Bengal state. I was Mathematics student but now my everything is Programming. I am Self-motivated, creative Front-End web developer, specialising in Responsive Design with a keen interest in JavaScript.",
+    movies: [
+        "Avengers: Endgame",
+        "Avengers: Infinity War",
+        "Thor: Ragnarok",
+        "Doctor Strange",
+        "Iron Man"
+    ]
+}
+```
+3. Use handlebars to pass data to your UI.
+4. Display name in `h1`, bio in `p` and movies in `ul`. No CSS required.
+5. Put your files under `assignments` > `week06` > `day02`.
+
+> Due day: _day-0_
