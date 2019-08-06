@@ -41,7 +41,7 @@ Output: `SRK`
 
 Write a JavaScript function that compares two arrays and prints whether they are equal or not.
 
-> **Note:** Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order.
+**Note:** Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order.
 
 ----------
 ## Week 4
@@ -62,13 +62,13 @@ Write a JavaScript function that produces a star pattern likes this.
 *
 ```
 
-> **Hint:** Nested `for` loop.
+**Hint:** Nested `for` loop.
 
 ### Day 2: Hamming distance
 
 Write a program to find the Hamming distance between two strings.
 
-> **Note:**  Hamming distance between two strings of equal length is the number of positions at which the corresponding characters are different. In more technical terms, it is a measure of the minimum number of changes required to turn one string into another.
+**Note:**  Hamming distance between two strings of equal length is the number of positions at which the corresponding characters are different. In more technical terms, it is a measure of the minimum number of changes required to turn one string into another.
 
 The Hamming distance between:
 
@@ -128,3 +128,12 @@ Output: { "num1": 5, "num2": 3 }
 Input: "http://localhost:3000/search"
 Output: "Missing URL parameters!"
 ```
+
+----------
+## Week 6
+
+### Day 2: Anagram
+
+Given 2 strings, find whether one is an anagram of the other.
+
+**Note:** Two strings are anagrams if they are written using the same exact letters. Each letter should have the same count in both strings. e.g. 'binary' and 'brainy'
