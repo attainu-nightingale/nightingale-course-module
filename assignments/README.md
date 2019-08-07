@@ -264,7 +264,7 @@ Create a JavaScript application that lets the user search for books under a part
 
 ### Day 2: About Me
 
-1. Refer to the assignment on week02-day01 and create and convert it to a backend assignment.
+1. Refer to the assignment on `week02-day01` and convert it to a backend assignment.
 2. Store your details in an object, e.g.
 ```
 var me = {
@@ -283,5 +283,16 @@ var me = {
 3. Use handlebars to pass data to your UI.
 4. Display name in `h1`, bio in `p` and movies in `ul`. No CSS required.
 5. Put your files under `assignments` > `week06` > `day02`.
+
+> Due day: _day-0_
+
+### Day 3: Login portal in Express
+
+1. A _students_ variable which stores data for students including their `username` and `password`.
+2. A _login_ form as created in today's lecture.
+3. An _authentication_ route which uses a students.json to verify login.
+4. A _redirection_ route only visible after successful login. You can use the webmail assignment as this protected route.
+5. A _logout_ route to destroy the session.
+6. Put your files under `assignments` > `week06` > `day03`.
 
 > Due day: _day-0_
