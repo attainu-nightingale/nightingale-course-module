@@ -5,123 +5,183 @@
 ### Command Line
 
 #### Setup
-1. If you are using Windows, you can use the Git Bash terminal bundled with the Git installer as your command line. You can download it from [https://gitforwindows.org/](https://gitforwindows.org/)
-2. If you are using a GNU/Linux system, use the Terminal emulator bundled in your distribution.
-3. If you are on MacOS, you can use the Terminal app installed by default in Mac. You can also checkout iTerm for a more feature rich Terminal.
+- If you are using Windows, you can use the Git Bash terminal bundled with the Git installer as your command line. You can download it from [https://gitforwindows.org/](https://gitforwindows.org/)
+- If you are using a GNU/Linux system, use the Terminal emulator bundled in your distribution.
+- If you are on MacOS, you can use the Terminal app installed by default in Mac. You can also checkout iTerm for a more feature rich Terminal.
 
 #### Tutorials
-1. [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
-2. [Learn enough command line to be dangerous](https://www.learnenough.com/command-line-tutorial)
-3. [Codeacademy command line course](https://www.codecademy.com/learn/learn-the-command-line)
+- [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
+- [Learn enough command line to be dangerous](https://www.learnenough.com/command-line-tutorial)
+- [Codeacademy command line course](https://www.codecademy.com/learn/learn-the-command-line)
 
 ### Git and version control
 
 #### Setup
-1. For Windows, download gitbash from [https://gitforwindows.org/](https://gitforwindows.org/)
-2. For Linux based distributions, see the installation notes at [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- For Windows, download gitbash from [https://gitforwindows.org/](https://gitforwindows.org/)
+- For Linux based distributions, see the installation notes at [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 #### Tutorials
-1. [Learn enough Git to be dangerous](https://www.learnenough.com/git-tutorial)
-2. [https://try.github.io/](https://try.github.io/)
-3. [Git Book](https://git-scm.com/book/en/v2)
+- [Learn enough Git to be dangerous](https://www.learnenough.com/git-tutorial)
+- [https://try.github.io/](https://try.github.io/)
+- [Git Book](https://git-scm.com/book/en/v2)
 
 ### Visual studio code
 
 #### Setup
-1. Download from here - [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
+- Download from here - [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 
 #### Tutorials
-1. [https://code.visualstudio.com/docs](https://code.visualstudio.com/docs)
-2. [The Coding Train tutorial](https://www.youtube.com/watch?v=yJw0SyKO9IU)
+- [https://code.visualstudio.com/docs](https://code.visualstudio.com/docs)
+- [The Coding Train tutorial](https://www.youtube.com/watch?v=yJw0SyKO9IU)
 
 ### Chrome developer tools
-1. Bundled inside Chrome (or Chromium) browser.
+- Bundled inside Chrome (or Chromium) browser.
 
 #### Tutorials
-1. [Google tutorial home](https://developers.google.com/web/tools/chrome-devtools/)
+- [Google tutorial home](https://developers.google.com/web/tools/chrome-devtools/)
 
 ### Codepen
 
 #### Setup
-1. Signup at [https://codepen.io/](https://codepen.io/)
+- Signup at [https://codepen.io/](https://codepen.io/)
 
 #### Tutorials
-1. [https://www.youtube.com/watch?v=pd1NX--k29c](https://www.youtube.com/watch?v=pd1NX--k29c)
+- [https://www.youtube.com/watch?v=pd1NX--k29c](https://www.youtube.com/watch?v=pd1NX--k29c)
 
 
 ## 2. HTML
 
 #### Tutorials
-1. [https://htmldog.com/guides/html/](https://htmldog.com/guides/html/)
-2. [https://learn.shayhowe.com/html-css/](https://learn.shayhowe.com/html-css/)
-3. [https://diveintohtml5.info/](https://diveintohtml5.info/)
+- [https://htmldog.com/guides/html/](https://htmldog.com/guides/html/)
+- [https://learn.shayhowe.com/html-css/](https://learn.shayhowe.com/html-css/)
+- [https://diveintohtml5.info/](https://diveintohtml5.info/)
 
 #### References
-1. [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-2. [http://www.scriptingmaster.com/html/HTML-reference-pages.asp](http://www.scriptingmaster.com/html/HTML-reference-pages.asp)
-3. [Dev Docs](https://devdocs.io/) - Contains documentation for HTML & CSS along with many other open source technologies.
+- [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [http://www.scriptingmaster.com/html/HTML-reference-pages.asp](http://www.scriptingmaster.com/html/HTML-reference-pages.asp)
+- [Dev Docs](https://devdocs.io/) - Contains documentation for HTML & CSS along with many other open source technologies.
 
 #### Further Reading
-1. [New HTML5 structural elements](https://dev.opera.com/articles/new-structural-elements-in-html5/)
-2. [HTML5 video introduction](https://dev.opera.com/articles/introduction-html5-video/)
-3. [input tag reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input)
-4. [HTML validator](https://validator.w3.org/)
+- [New HTML5 structural elements](https://dev.opera.com/articles/new-structural-elements-in-html5/)
+- [HTML5 video introduction](https://dev.opera.com/articles/introduction-html5-video/)
+- [input tag reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input)
+- [HTML validator](https://validator.w3.org/)
+
 
 ## 3. CSS
 
 #### Tutorials
-1. [https://htmldog.com/guides/css/](https://htmldog.com/guides/css/)
-2. [https://learn.shayhowe.com/html-css/](https://learn.shayhowe.com/html-css/)
-3. [https://adamschwartz.co/magic-of-css/](https://adamschwartz.co/magic-of-css/)
+- [https://htmldog.com/guides/css/](https://htmldog.com/guides/css/)
+- [https://learn.shayhowe.com/html-css/](https://learn.shayhowe.com/html-css/)
+- [https://adamschwartz.co/magic-of-css/](https://adamschwartz.co/magic-of-css/)
 
 #### CSS layout tutorials
-1. [Floats](https://css-tricks.com/all-about-floats/)
-2. [Centering elements](https://css-tricks.com/centering-css-complete-guide/)
-3. [CSS layouts](https://css-tricks.com/how-well-do-you-know-css-layout/)
-4. [The box model](https://css-tricks.com/the-css-box-model/)
-5. [Create a simple CSS grid system](https://medium.freecodecamp.org/css-grid-a-simple-layout-design-tutorial-5312a4a8bcaf)
-6. [More CSS floats](https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/)
-7. [CSS positioning in depth](https://alistapart.com/article/css-positioning-101)
-8. [CSS layout - interactive tutorial](http://learnlayout.com/)
+- [Floats](https://css-tricks.com/all-about-floats/)
+- [Centering elements](https://css-tricks.com/centering-css-complete-guide/)
+- [CSS layouts](https://css-tricks.com/how-well-do-you-know-css-layout/)
+- [The box model](https://css-tricks.com/the-css-box-model/)
+- [Create a simple CSS grid system](https://medium.freecodecamp.org/css-grid-a-simple-layout-design-tutorial-5312a4a8bcaf)
+- [More CSS floats](https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/)
+- [CSS positioning in depth](https://alistapart.com/article/css-positioning-101)
+- [CSS layout - interactive tutorial](http://learnlayout.com/)
 
 #### Reference
-1. [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-2. [https://tympanus.net/codrops/css_reference/](https://tympanus.net/codrops/css_reference/)
-3. [https://cssreference.io/](https://cssreference.io/)
-4. [CSS vocabulary](http://nimbupani.com/css-vocabulary.html)
-5. [Dev Docs](https://devdocs.io/) - Contains documentation for HTML & CSS along with many other open source technologies.
+- [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [https://tympanus.net/codrops/css_reference/](https://tympanus.net/codrops/css_reference/)
+- [https://cssreference.io/](https://cssreference.io/)
+- [CSS vocabulary](http://nimbupani.com/css-vocabulary.html)
+- [Dev Docs](https://devdocs.io/) - Contains documentation for HTML & CSS along with many other open source technologies.
 
 #### Useful CSS libraries
-1. [Eric Meyer's CSS reset](https://meyerweb.com/eric/tools/css/reset/)
-2. [Normalize.css](https://necolas.github.io/normalize.css/)
-3. [Bootstrap](https://getbootstrap.com/)
+- [Eric Meyer's CSS reset](https://meyerweb.com/eric/tools/css/reset/)
+- [Normalize.css](https://necolas.github.io/normalize.css/)
+- [Bootstrap](https://getbootstrap.com/)
 
 #### Other links
-1. [Styling lists](http://www.smashingmagazine.com/2009/12/11/styling-html-lists-with-css-techniques-and-resources/)
-2. [CSS validator](https://jigsaw.w3.org/css-validator/)
-3. [Magic of CSS](http://adamschwartz.co/magic-of-css/)
+- [Styling lists](http://www.smashingmagazine.com/2009/12/11/styling-html-lists-with-css-techniques-and-resources/)
+- [CSS validator](https://jigsaw.w3.org/css-validator/)
+- [Magic of CSS](http://adamschwartz.co/magic-of-css/)
+
 
 ## 4. Javascript
 
 #### Tutorials
-1. [https://htmldog.com/guides/javascript/](https://htmldog.com/guides/javascript/)
-2. [Javascript for cats](http://jsforcats.com/) - Easy one to complete compared to others.
-3. [Eloquent JavaScript book](https://eloquentjavascript.net/)
-4. [Mozilla Developer Network Javascript tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-5. [A re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) From MDN again. Kind of a crash course.
-6. [The JS way](https://github.com/bpesquet/thejsway/)
-7. [You don't know JS](https://github.com/getify/You-Dont-Know-JS) A book about many Javascript language features in detail.
+- [https://htmldog.com/guides/javascript/](https://htmldog.com/guides/javascript/)
+- [Javascript for cats](http://jsforcats.com/) - Easy one to complete compared to others.
+- [Eloquent JavaScript book](https://eloquentjavascript.net/)
+- [Mozilla Developer Network Javascript tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [A re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) From MDN again. Kind of a crash course.
+- [The JS way](https://github.com/bpesquet/thejsway/)
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS) A book about many Javascript language features in detail.
 
 #### Reference
-1. [https://developer.mozilla.org/bm/docs/Web/JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
-2. [JS Garden](https://bonsaiden.github.io/JavaScript-Garden/) - A collection of docs about quirky parts of Javascript.
+- [https://developer.mozilla.org/bm/docs/Web/JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+- [JS Garden](https://bonsaiden.github.io/JavaScript-Garden/) - A collection of docs about quirky parts of Javascript.
 
 #### Books
-1. [Professional Javascript for web developers](https://www.amazon.in/Professional-Javascript-Web-Developers-WROX/dp/8126535083)
-2. [Javascript: The definitive guide](https://www.amazon.in/JavaScript-Definitive-Guide-Flanagan-David/dp/9350233940/)
+- [Professional Javascript for web developers](https://www.amazon.in/Professional-Javascript-Web-Developers-WROX/dp/8126535083)
+- [Javascript: The definitive guide](https://www.amazon.in/JavaScript-Definitive-Guide-Flanagan-David/dp/9350233940/)
 
-#### E6 Specific Resources
-1. [ES6 features in bullet points](https://github.com/bevacqua/es6)
-2. [Understanding ES6 (book) ](https://leanpub.com/understandinges6/read)
 
-#### Further Reading
-1. [JS event loop explained](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
+## 5. jQuery
+
+#### Tutorials
+- [https://learn.jquery.com/](https://learn.jquery.com/)
+- [https://www.codecademy.com/learn/learn-jquery](https://www.codecademy.com/learn/learn-jquery)
+- [https://css-tricks.com/lodge/learn-jquery/](https://css-tricks.com/lodge/learn-jquery/)
+
+
+## 6. Node.js
+
+#### Setup
+- Download from [https://nodejs.org/en/](https://nodejs.org/en/)
+- If you are using a GNU/Linux distribution, please use your package managed to install NodeJS.
+
+
+## 7. Express
+
+#### Setup
+- If you have Node and NPM installed, run `npm install express`
+- [Hello World example](https://expressjs.com/en/starter/hello-world.html)
+- [Routing Guide](https://expressjs.com/en/guide/routing.html)
+- [Template engine wiki](https://github.com/expressjs/express/wiki#template-engines)
+- After `cd`ing into your project directory, run `npm install body-parser`.
+
+#### Tutorials
+- [Examples for Express apps](https://github.com/expressjs/express/tree/master/examples)
+- [Node and Express introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+- [https://github.com/expressjs/body-parser#examples](https://github.com/expressjs/body-parser#examples)
+
+
+## 8. Handlebars
+
+#### Setup
+- Follow the instructions at https://github.com/pillarjs/hbs#install
+
+#### Documentation
+- https://handlebarsjs.com/
+
+#### Tutorials
+- [Learn everything about Handlebars](http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/)
+
+
+## 9. MongoDB
+
+#### Setup
+- Windows users - Download and install from here - [https://www.mongodb.com/download-center/community](https://www.mongodb.com/download-center/community)
+- Linux users - Follow the setup instruction here - [https://docs.mongodb.com/manual/administration/install-on-linux/](https://docs.mongodb.com/manual/administration/install-on-linux/)
+
+#### Installation Notes
+- For those who are on Windows 8 and below, you might need to start the MongoDB server manually. Go to the installation directory in your command line and run `./mongod.exe` to start the server.
+
+#### Documentation
+- [Mongo manual](https://university.mongodb.com/)
+- [Mongo University](https://university.mongodb.com/) From the creators of MongoDB itself.
+
+#### Tutorials
+- MongoDB "CRUD" operations - [https://docs.mongodb.com/manual/crud/](https://docs.mongodb.com/manual/crud/)
+
+#### Using MongoDB with Node.js
+- To install the native driver, run `npm install mongodb`
+- Documentation - [https://mongodb.github.io/node-mongodb-native/](https://mongodb.github.io/node-mongodb-native/)
+- [https://www.mongodb.com/blog/post/the-modern-application-stack-part-2-using-mongodb-with-nodejs](https://www.mongodb.com/blog/post/the-modern-application-stack-part-2-using-mongodb-with-nodejs)
