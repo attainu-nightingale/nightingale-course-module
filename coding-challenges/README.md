@@ -137,3 +137,8 @@ Output: "Missing URL parameters!"
 Given 2 strings, find whether one is an anagram of the other.
 
 **Note:** Two strings are anagrams if they are written using the same exact letters. Each letter should have the same count in both strings. e.g. 'binary' and 'brainy'
+
+### Day 4: Palindrome
+Write a function to check whether a given string is a palindrome.
+
+**Note:** A palindrome is a word that is the same when read backwards. e.g. `kayak`, `madam`, `malayalam`
