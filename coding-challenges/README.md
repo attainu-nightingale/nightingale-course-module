@@ -142,3 +142,14 @@ Given 2 strings, find whether one is an anagram of the other.
 Write a function to check whether a given string is a palindrome.
 
 **Note:** A palindrome is a word that is the same when read backwards. e.g. `kayak`, `madam`, `malayalam`
+
+### Day 5: Character increment
+Write a function to take a string as input and change each letter to the next letter in the alphabet.
+
+```
+Input: "hello"
+Output: "ifmmp"
+
+Input: "zeta"
+Output: "afub"
+```
