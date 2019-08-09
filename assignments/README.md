@@ -203,6 +203,7 @@ Create a JavaScript application that lets the user search for books under a part
 4. Every time a new search is made, make sure to clear out the last set of results.
 5. You are free to use either vanilla JS or jQuery.
 6. For the UI (input and tables), use Bootstrap.
+6. Put your files under `assignments` > `week04` > `weekly-test`.
 
 > Due day: _day-3_
 
@@ -255,7 +256,7 @@ Create a JavaScript application that lets the user search for books under a part
 4. A form action handler for the POST request on the submit button. You can post data directly as urlencoded or use JavaScript to post it as JSON.
 4. Update `tweets[]` on a successful POST request.
 5. Also, update the UI to reflect the new tweets that have been posted.
-6. Put your files under `assignments` > `week04` > `weekly-test`.
+6. Put your files under `assignments` > `week05` > `weekly-test`.
 
 > Due day: _day-3_
 
@@ -296,3 +297,40 @@ var me = {
 6. Put your files under `assignments` > `week06` > `day03`.
 
 > Due day: _day-0_
+
+### Weekly Test: Twitter app with login
+
+1. Store a set of usernames and passwords in `data/users.json`.
+    ```
+    [
+        {
+            username: "digitizer",
+            password: "digitizer"
+        },
+        {
+            username: "mosh",
+            password: "hello123"
+        }
+    ]
+    ```
+2. Store a set of names and tweets data in `data/tweets.json`.
+    ```
+    [
+        {
+            name: "digitizer",
+            tweet: "This is a cool piece of information."
+        },
+        {
+            name: "M0SH",
+            tweet: "@digitizer I agree."
+        }
+    ]
+    ```
+2. Create a `/login` route which shows a form to log a user into the app.
+3. Create a `/auth` route to match the form data posted in the above step against data in `data/users.json`.
+4. Create a `/` route which displays the list of tweets only on a successful login, else redirect to login page. You must use handlebars here to display the tweets.
+5. Put your files under `assignments` > `week06` > `weekly-test`.
+
+**Note:** No need of posting new tweets by the logged in user. We had already done that in the last weekly test.
+
+> Due day: _day-3_
