@@ -334,3 +334,15 @@ var me = {
 **Note:** No need of posting new tweets by the logged in user. We had already done that in the last weekly test.
 
 > Due day: _day-3_
+
+----------
+## Week 7
+
+### Day 1: Login portal in Express + MongoDB
+
+1. Make a copy of the assignment `week06-day03`.
+2. There must be a collection of students in your MongoDB database which holds the `username` and `password` to be matched.
+3. Change the assignment to do the authentication from this database rather than a variable in express.
+4. Put your files under `assignments` > `week07` > `day01`.
+
+> Due day: _day-1_
