@@ -153,3 +153,17 @@ Output: "ifmmp"
 Input: "zeta"
 Output: "afub"
 ```
+
+----------
+## Week 7
+
+### Day 2: Factorial
+Write  a function to take a number input and output its factorial.
+
+**Note:** The factorial of any number is the product of all positive integers less than or equal to it. Factorial is mathematically denoted by the symbol `!`.
+
+```
+4! = 4 * 3 * 2 * 1 = 24
+
+6! = 6 * 5 * 4 * 3 * 2 * 1 = 720
+```
