@@ -346,3 +346,15 @@ var me = {
 4. Put your files under `assignments` > `week07` > `day01`.
 
 > Due day: _day-1_
+
+### Day 2: Add student to database
+
+1. Make a copy and continue with the previous assignment.
+2. Create a protected form which allows adding a new student with the following details.
+```
+firstname, lastname, gender, hometown, username, password
+```
+3. This form should post to an express route which adds the document to the MongoDB collection.
+4. Put your files under `assignments` > `week07` > `day02`.
+
+> Due day: _day-1_
