@@ -363,9 +363,11 @@ firstname, lastname, gender, hometown, username, password
 
 1. Make a copy and continue with the previous assignment.
 2. Create an API endpoint which returns data in JSON format.
-`/getStudent?hometown=Delhi` should return an array for all student objects with hometown 'Delhi'.
-3. Use this API to display
-4. 
-5. Put your files under `assignments` > `week07` > `day03`.
+`/getStudent?hometown=Delhi` should return an array for all student objects with hometown 'Delhi'. (available without login)
+3. Render a hbs template on the default route `/` which has one button with text `Delhi`. (available only after login).
+4. Use the API in step 2 on the default route `/`. Clicking on the button should display an array of students from Delhi in `div id='result'`.
+5. No need to do this for other towns, only a button for `Delhi` is enough.
+6. Ypou will have to use jQuery / JS inside your hbs to make the API call.
+7. Put your files under `assignments` > `week07` > `day03`.
 
 > Due day: _day-2_
