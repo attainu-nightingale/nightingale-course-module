@@ -358,3 +358,14 @@ firstname, lastname, gender, hometown, username, password
 4. Put your files under `assignments` > `week07` > `day02`.
 
 > Due day: _day-1_
+
+### Day 3: Get student by hometown
+
+1. Make a copy and continue with the previous assignment.
+2. Create an API endpoint which returns data in JSON format.
+`/getStudent?hometown=Delhi` should return an array for all student objects with hometown 'Delhi'.
+3. Use this API to display
+4. 
+5. Put your files under `assignments` > `week07` > `day03`.
+
+> Due day: _day-2_
