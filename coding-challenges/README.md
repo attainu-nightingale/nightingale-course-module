@@ -167,3 +167,13 @@ Write  a function to take a number input and output its factorial.
 
 6! = 6 * 5 * 4 * 3 * 2 * 1 = 720
 ```
+
+### Day 3: Pangram
+Given a string, find all characters that are missing from the string, i.e., the characters that can make the string a pangram. Print the output in alphabetic order, case-insensitive.
+
+**Note:** A pangram is a sentence containing every letter in the English alphabet.
+
+```
+Input : The quick brown fox jumps
+Output : adglvyz
+```
