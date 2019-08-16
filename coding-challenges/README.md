@@ -177,3 +177,8 @@ Given a string, find all characters that are missing from the string, i.e., the 
 Input : The quick brown fox jumps
 Output : adglvyz
 ```
+
+### Day 5: Decimal to binary
+Write a function to input a decimal (base-10) number and return its binary equivalent (base-2). The image below illustrates the method to get a binary equivalent `10001` of a decimal number `17`.
+
+![conversion](images/decimal-binary.png)
