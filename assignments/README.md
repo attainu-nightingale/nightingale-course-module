@@ -367,7 +367,16 @@ firstname, lastname, gender, hometown, username, password
 3. Render a hbs template on the default route `/` which has one button with text `Delhi`. (available only after login).
 4. Use the API in step 2 on the default route `/`. Clicking on the button should display an array of students from Delhi in `div id='result'`.
 5. No need to do this for other towns, only a button for `Delhi` is enough.
-6. Ypou will have to use jQuery / JS inside your hbs to make the API call.
+6. You will have to use jQuery / JS inside your hbs to make the API call.
 7. Put your files under `assignments` > `week07` > `day03`.
 
 > Due day: _day-2_
+
+### Weekly Test: Modify and delete
+
+1. Make a copy and continue with the previous assignment.
+2. Create an API endpoint `/student?id='xxxxxxx'` for a `PUT` and a `DELETE` request. (available without login)
+3. Passing the student ObjectID here will either update or delete the corresponding student document.
+4. In case of a `PUT` request, the update parameters will be send as JSON inside `req.body`.
+5. Use Postman to test both of these request routes.
+6. Put your files under `assignments` > `week07` > `weekly-test`.
