@@ -139,11 +139,13 @@ Given 2 strings, find whether one is an anagram of the other.
 **Note:** Two strings are anagrams if they are written using the same exact letters. Each letter should have the same count in both strings. e.g. 'binary' and 'brainy'
 
 ### Day 4: Palindrome
+
 Write a function to check whether a given string is a palindrome.
 
 **Note:** A palindrome is a word that is the same when read backwards. e.g. `kayak`, `madam`, `malayalam`
 
 ### Day 5: Character increment
+
 Write a function to take a string as input and change each letter to the next letter in the alphabet.
 
 ```
@@ -158,6 +160,7 @@ Output: "afub"
 ## Week 7
 
 ### Day 2: Factorial
+
 Write  a function to take a number input and output its factorial.
 
 **Note:** The factorial of any number is the product of all positive integers less than or equal to it. Factorial is mathematically denoted by the symbol `!`.
@@ -169,6 +172,7 @@ Write  a function to take a number input and output its factorial.
 ```
 
 ### Day 3: Pangram
+
 Given a string, find all characters that are missing from the string, i.e., the characters that can make the string a pangram. Print the output in alphabetic order, case-insensitive.
 
 **Note:** A pangram is a sentence containing every letter in the English alphabet.
@@ -179,6 +183,16 @@ Output : adglvyz
 ```
 
 ### Day 5: Decimal to binary
+
 Write a function to input a decimal (base-10) number and return its binary equivalent (base-2). The image below illustrates the method to get a binary equivalent `10001` of a decimal number `17`.
 
 ![conversion](images/decimal-binary.png)
+
+----------
+## Week 8
+
+### Day 1: Fibonacci
+
+Write a function to take an input n and print first n terms of the Fibonacci series.
+
+**Note:** The Fibonacci Sequence is the series of numbers - `0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...` Any term of the Fibonacci series is found by adding up the two numbers before it.
