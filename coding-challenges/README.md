@@ -201,8 +201,8 @@ Write a function to take an input n and print first n terms of the Fibonacci ser
 
 Given a number N, the task is to print the following pattern:
 ```
-Input : 10
-Output :                    
+Input: 10
+Output:                    
           * 
          * * 
         * * * 
@@ -214,8 +214,8 @@ Output :
   * * * * * * * * * 
  * * * * * * * * * * 
 
-Input :5
-Output :
+Input: 5
+Output:
      * 
     * * 
    * * * 

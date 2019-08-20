@@ -380,3 +380,20 @@ firstname, lastname, gender, hometown, username, password
 4. In case of a `PUT` request, the update parameters will be send as JSON inside `req.body`.
 5. Use Postman to test both of these request routes.
 6. Put your files under `assignments` > `week07` > `weekly-test`.
+
+----------
+## Week 8
+
+### Day 2: AttainU Portal - Part 1
+
+1. Create a MongoDB database named `attainu`.
+2. This database should contain 2 collections:
+    - `students` (name, email, phone, age, etc.).
+    - `instructors` (name, email, phone, age, etc.).
+3. Fill in dummy data inside these collections - at least 3 documents each.
+4. Create a route `/students` to show all the student document information in the form of a bootstrap card.
+5. There should be one card per student.
+6. Repeat the same for instructors on the route `/instructor`.
+7. Put your files under `assignments` > `week08` > `day02`.
+
+> Due day: _day-1_
