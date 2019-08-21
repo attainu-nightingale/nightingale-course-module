@@ -222,3 +222,14 @@ Output:
   * * * * 
  * * * * * 
 ```
+
+### Day 3: Array min-max
+
+Create two Javascript functions - `largest` and `smallest`.
+
+Both of them takes an array of numbers as an input.
+
+`largest` should return the largest number in the array.
+`smallest` should return the smallest number in the array.
+
+Feel free to use any technique - either algo based or any of the JS' builtin feature to solve this problem.
