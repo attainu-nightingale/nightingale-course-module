@@ -397,3 +397,14 @@ firstname, lastname, gender, hometown, username, password
 7. Put your files under `assignments` > `week08` > `day02`.
 
 > Due day: _day-1_
+
+### Day 3: AttainU Portal - Part 2
+
+1. Create a view at `/students/add` with a form to add a new student to the collection.
+2. The view should be rendered through Handlebars.
+3. This should make a POST request to an API endpoint `students/student`.
+4. You should use an AJAX script in an external JS file for this.
+5. The API endpoint should make relevant entries in the MongoDB collection.
+6. Put your files under `assignments` > `week08` > `day03`.
+
+> Due day: _day-1_
