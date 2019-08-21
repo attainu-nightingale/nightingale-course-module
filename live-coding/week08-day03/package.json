@@ -1,0 +1,16 @@
+{
+  "name": "week08-day03",
+  "version": "1.0.0",
+  "description": "Handlebars and JS scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arkesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4"
+  }
+}
