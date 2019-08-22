@@ -218,6 +218,8 @@ Create a JavaScript application that lets the user search for books under a part
 4. The `mul` route should take two url parameters and send back their product.
 5. The `div` route should take two url parameters and send back their division result.
 
+> Solution session: _day-1_
+>
 > Due day: _day-1_
 
 ### Day 4: Calculator in Express using post.
@@ -234,6 +236,8 @@ Create a JavaScript application that lets the user search for books under a part
 ```
 4. No need for UI. Everything can be tested using Postman.
 
+> Solution session: _day-0_
+>
 > Due day: _day-0_
 
 ### Weekly Test: Twitter app
@@ -285,6 +289,8 @@ var me = {
 4. Display name in `h1`, bio in `p` and movies in `ul`. No CSS required.
 5. Put your files under `assignments` > `week06` > `day02`.
 
+> Solution session: _day-0_
+>
 > Due day: _day-0_
 
 ### Day 3: Login portal in Express
@@ -296,6 +302,8 @@ var me = {
 5. A _logout_ route to destroy the session.
 6. Put your files under `assignments` > `week06` > `day03`.
 
+> Solution session: _day-0_
+>
 > Due day: _day-0_
 
 ### Weekly Test: Twitter app with login
@@ -345,6 +353,8 @@ var me = {
 3. Change the assignment to do the authentication from this database rather than a variable in express.
 4. Put your files under `assignments` > `week07` > `day01`.
 
+> Solution session: _day-1_
+>
 > Due day: _day-1_
 
 ### Day 2: Add student to database
@@ -357,6 +367,8 @@ firstname, lastname, gender, hometown, username, password
 3. This form should post to an express route which adds the document to the MongoDB collection.
 4. Put your files under `assignments` > `week07` > `day02`.
 
+> Solution session: _day-1_
+>
 > Due day: _day-1_
 
 ### Day 3: Get student by hometown
@@ -370,6 +382,8 @@ firstname, lastname, gender, hometown, username, password
 6. You will have to use jQuery / JS inside your hbs to make the API call.
 7. Put your files under `assignments` > `week07` > `day03`.
 
+> Solution session: _day-2_
+>
 > Due day: _day-2_
 
 ### Weekly Test: Modify and delete
@@ -391,11 +405,13 @@ firstname, lastname, gender, hometown, username, password
     - `students` (name, email, phone, age, etc.).
     - `instructors` (name, email, phone, age, etc.).
 3. Fill in dummy data inside these collections - at least 3 documents each.
-4. Create a route `/students` to show all the student document information in the form of a bootstrap card.
+4. Create a route `/students` to show each student information in the form of a bootstrap card.
 5. There should be one card per student.
-6. Repeat the same for instructors on the route `/instructor`.
+6. Repeat the same for instructors on the route `/instructors`.
 7. Put your files under `assignments` > `week08` > `day02`.
 
+> Solution session: _day-1_
+>
 > Due day: _day-1_
 
 ### Day 3: AttainU Portal - Part 2
@@ -406,5 +422,20 @@ firstname, lastname, gender, hometown, username, password
 4. You should use an AJAX script in an external JS file for this.
 5. The API endpoint should make relevant entries in the MongoDB collection.
 6. Put your files under `assignments` > `week08` > `day03`.
+
+> Solution session: _day-1_
+>
+> Due day: _day-1_
+
+### Weekly Test: AttainU Portal - Part 3
+
+1. In the previously created route `/students`, add a button `Delete` for each bootstrap card. 
+2. Store Mongo ObjectID of the student in the button like this:
+```
+<button name="student-delete" type="submit" value="xxxxxxxxxx">Delete</button>
+```
+3. Clicking on `Delete` should make a `DELETE` request to `students/student/xxxxxxxxxx`.
+4. The API endpoint should compare the `id` and delete relevant entries in the MongoDB collection.
+5. Put your files under `assignments` > `week08` > `weekly-test`.
 
 > Due day: _day-1_
