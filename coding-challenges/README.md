@@ -248,12 +248,6 @@ Examples: `isPowerOfTwo(16)` => `true`, `isPowerOfTwo(9) => `false`
 
 ## Day 5
 
-Create two Javascript functions - `largest` and `smallest`.
+Write a Javascript function that takes two arrays as an input and calculate the number of elements that belong to both of the arrays.
 
-Both of them takes an array of numbers as an input.
-
-`largest` should return the largest number in the array.
-
-`smallest` should return the smallest number in the array.
-
-Feel free to use any technique - either algorithm based or any of the JS' builtin feature to solve this problem.``
+For example, given two arrays - `let a =[5,2,8,9,4]` and let b = `[3,2,9,5]`` The function commonElements(a, b) should return `[]2, 5, 9]` because 2, 5 and 9 are common to both of the arrays.
