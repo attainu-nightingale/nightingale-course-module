@@ -242,3 +242,18 @@ For a number that is power of two, you should return `true`. For others, you sho
 Examples: `isPowerOfTwo(16)` => `true`, `isPowerOfTwo(9) => `false`
 
 *Hint:* You can easily check if a number is power of two by - repeatedly dividing it by two and checking for any remainder - until the number becomes 1 or less. If at any point the remainder is not 0, the number is not a power of two.
+
+
+# Week 12
+
+## Day 5
+
+Create two Javascript functions - `largest` and `smallest`.
+
+Both of them takes an array of numbers as an input.
+
+`largest` should return the largest number in the array.
+
+`smallest` should return the smallest number in the array.
+
+Feel free to use any technique - either algorithm based or any of the JS' builtin feature to solve this problem.``
