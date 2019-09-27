@@ -251,3 +251,20 @@ Examples: `isPowerOfTwo(16)` => `true`, `isPowerOfTwo(9) => `false`
 Write a Javascript function that takes two arrays as an input and calculate the number of elements that belong to both of the arrays.
 
 For example, given two arrays - `let a =[5,2,8,9,4]` and let b = `[3,2,9,5]`` The function commonElements(a, b) should return `[]2, 5, 9]` because 2, 5 and 9 are common to both of the arrays.
+
+# Week 13
+
+## Day 5
+
+Consider the following rule for creating a number sequence -
+If the `previous number is even, the next number is n / 2`.
+If the `previous number is odd, the next number is 3 * n + 1`
+If we use the above rule and start the sequence from 13, we will have the `following sequence 13, 40, 20, 10, 5, 16, 8, 4, 2, 1`
+This is how it was created -
+We started from 13, which is an odd number.
+So the next number is calculated as 3 * n + 1, that is, 3 * 13 + 1 = 40
+40 is even, so the next number is n / 2, that is 40 / 2 = 20
+20 is even, so the next number is n / 2, that is 20 / 2 = 10
+10 is even, so the next number is n / 2, that is 10 / 2 = 5
+5 is odd, so the next number is 3 * n + 1, that is 3 * 5 + 1 = 16
+and so on until 1... 
