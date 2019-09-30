@@ -268,3 +268,13 @@ So the next number is calculated as 3 * n + 1, that is, 3 * 13 + 1 = 40
 10 is even, so the next number is n / 2, that is 10 / 2 = 5
 5 is odd, so the next number is 3 * n + 1, that is 3 * 5 + 1 = 16
 and so on until 1... 
+
+# Week 14 
+
+## Day 1
+
+Write a Javascript function that checks if a string contains all unique characters. Return true if all the characters are unique or false if it contains duplicate characters.
+
+For example, ansal contains two a and hence the function should return false for it. arkesh contains no repeated character and hence the function should return true.
+
+You can treat small case and big case of same characters as different characters.
