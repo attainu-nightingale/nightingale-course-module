@@ -278,3 +278,5 @@ Write a Javascript function that checks if a string contains all unique characte
 For example, ansal contains two a and hence the function should return false for it. arkesh contains no repeated character and hence the function should return true.
 
 You can treat small case and big case of same characters as different characters.
+
+Hint: Use javascript object for storage 
