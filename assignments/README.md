@@ -439,3 +439,19 @@ firstname, lastname, gender, hometown, username, password
 5. Put your files under `assignments` > `week08` > `weekly-test`.
 
 > Due day: _day-1_
+
+## Week 14
+
+### Day 01 
+
+`let shoppingCart = [`
+  `{ productTitle: "Functional Programming", type: "books", amount: 10 },`
+  `{ productTitle: "Kindle", type: "eletronics", amount: 30 },`
+  `{ productTitle: "Shoes", type: "fashion", amount: 20 },`
+  `{ productTitle: "Clean Code", type: "books", amount: 60 }`
+`]`
+
+Calculate the `total amount` of all books in our shopping cart using `filter`, `map`, `reduce`. Follow the below conditions 
+1) filter by book type
+2) transform the shopping cart into a collection of amount
+3) combine all items by adding them up
