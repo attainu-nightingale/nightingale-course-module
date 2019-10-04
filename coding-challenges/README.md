@@ -280,3 +280,35 @@ For example, ansal contains two a and hence the function should return false for
 You can treat small case and big case of same characters as different characters.
 
 Hint: Use javascript object for storage 
+
+# Week 14 
+
+## Day 2 
+Write a Javascript function that takes a string and compresses it.
+
+You can use a simple character count algorithm for the compression. So for each character in the input string, replace it with a number if the next character(s) are the same.
+
+So an input string like AAABCCDDDD will become  A3BC2D4.
+
+# Week 14 
+
+## Day 3 
+Consider two sorted arrays, A and B.
+
+Write a Javascript function that merges these two arrays maintaining the sorted order.
+
+We know that this can be easily achieved using .concat() and then .sort() methods. However, for this problem, you cannot use the .sort() function. Try to do the merge without it.
+
+# Week 14 
+
+## Day 4
+Write a Javascript function that finds all *permutations of an input string*.
+
+Permutation is the act of arranging the members of a collection into some sequence or order - https://en.wikipedia.org/wiki/Permutation
+
+For example, the input "ABC" to our function would return the following: "ABC", "ACB", "BAC", "BCA", "CBA", and "CAB".
+
+Hints:
+
+1. These kind of problems are well suited for Recursive problem solving.
+2. If you are completely stuck, here is a well known algorithm for solving this problem - https://en.wikipedia.org/wiki/Heap%27s_algorithm . Read about the algorithm and try to implement the code by yourself.
