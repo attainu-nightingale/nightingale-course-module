@@ -312,3 +312,28 @@ Hints:
 
 1. These kind of problems are well suited for Recursive problem solving.
 2. If you are completely stuck, here is a well known algorithm for solving this problem - https://en.wikipedia.org/wiki/Heap%27s_algorithm . Read about the algorithm and try to implement the code by yourself.
+
+# Week 15 
+
+## Day 1
+
+### Challenge 1
+
+2 ^ 15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
+
+What is the sum of the digits of the number 2 ^ 1000?
+
+(Read 2 ^ 15 as 2 raise to 15 or simply exponentiation with the base 2).
+
+Hints: `Math` object has a function to find the power. Once you get that, get individual numbers from the result and add them together.
+
+### Challenge 2
+
+Write a Javascript function that finds the missing numbers in an array of integers from 1 to N, where N being the largest number in the array.
+
+Some example inputs and outputs -
+
+findMissing( [1, 2, 4, 5, 6] ) should return [3] as 3 is the missing number in the series.
+findMissing( [1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 13, 14, 15] ) should return [8, 10] as both of them are missing the series.
+
+You can assume that the input array does not contain any duplicates. 
