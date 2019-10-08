@@ -292,7 +292,7 @@ So an input string like AAABCCDDDD will become  A3BC2D4.
 
 # Week 14 
 
-## Day 3 
+## Day 4 
 Consider two sorted arrays, A and B.
 
 Write a Javascript function that merges these two arrays maintaining the sorted order.
@@ -301,7 +301,7 @@ We know that this can be easily achieved using .concat() and then .sort() method
 
 # Week 14 
 
-## Day 4
+## Day 5
 Write a Javascript function that finds all *permutations of an input string*.
 
 Permutation is the act of arranging the members of a collection into some sequence or order - https://en.wikipedia.org/wiki/Permutation
@@ -337,3 +337,15 @@ findMissing( [1, 2, 4, 5, 6] ) should return [3] as 3 is the missing number in t
 findMissing( [1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 13, 14, 15] ) should return [8, 10] as both of them are missing the series.
 
 You can assume that the input array does not contain any duplicates. 
+
+## Day 2 
+
+### Challenge 3
+
+Write a Javascript program that removes duplicates from an array.
+
+For example, if the input array is `[1, 2, 2, 3, 4, 5, 6, 6, 7]`, the output of the program should be [1, 2, 3, 4, 5, 6, 7]
+
+You can assume that the input array is sorted. (If this fact is not mentioned in your interview challenge, you can always sort the input array before processing).
+
+Can you do this in O(n) time?
