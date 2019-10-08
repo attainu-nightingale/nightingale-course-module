@@ -455,3 +455,9 @@ Calculate the `total amount` of all books in our shopping cart using `filter`, `
 1) filter by book type
 2) transform the shopping cart into a collection of amount
 3) combine all items by adding them up
+
+## Week 15
+
+### Day 02 
+
+Implemente Binary Search 
