@@ -461,3 +461,7 @@ Calculate the `total amount` of all books in our shopping cart using `filter`, `
 ### Day 02 
 
 Implemente Binary Search 
+
+### Day 03 
+
+Implement Selection Sort & Bubbule Sort
