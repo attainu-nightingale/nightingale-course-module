@@ -349,3 +349,17 @@ For example, if the input array is `[1, 2, 2, 3, 4, 5, 6, 6, 7]`, the output of 
 You can assume that the input array is sorted. (If this fact is not mentioned in your interview challenge, you can always sort the input array before processing).
 
 Can you do this in O(n) time?
+
+## Day 3
+
+### Challenge 4
+
+Write a Javascript function that finds all prime numbers upto a number n.
+
+So if we call the function asfindPrimes(100), it should print all the prime numbers upto 100.
+
+Hints -
+
+1. You know how to check a number is prime or not. If you know it, doing the same for numbers from 1 to 100 is easy.
+
+2. If you have solved the problem using the first method above, please read about Sieve of Eratosthenes. It is a very efficient way to find all prime numbers upto n. And it is a common interview task to implement the same. Try and see if you can solve the program using that algorithm.
