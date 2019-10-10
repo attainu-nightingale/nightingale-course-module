@@ -363,3 +363,15 @@ Hints -
 1. You know how to check a number is prime or not. If you know it, doing the same for numbers from 1 to 100 is easy.
 
 2. If you have solved the problem using the first method above, please read about Sieve of Eratosthenes. It is a very efficient way to find all prime numbers upto n. And it is a common interview task to implement the same. Try and see if you can solve the program using that algorithm.
+
+## Day 4
+
+### Challenge 5
+
+Create a Stack class using arrays and ES6 class.
+
+Stack is an ordered data structure that supports two functions - push and pop.push adds an element to a stack, where pop remove from it.
+
+The adding and removal of elements take a special order. The last element added to a stack will be the first element to be removed from it, when called using push and pop respectively.
+
+Hints:You can use an array to represent the stack in your class. Then use the array push/pop or shift/unshift methods to get the element in or out of the array.

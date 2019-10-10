@@ -465,3 +465,7 @@ Implemente Binary Search
 ### Day 03 
 
 Implement Selection Sort & Bubbule Sort
+
+### Day 04 
+1) Given a number `n` write a recursive function to calculate the multiplication from 1-n
+2) Implement Merge sort
