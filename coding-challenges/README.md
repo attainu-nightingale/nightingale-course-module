@@ -375,3 +375,13 @@ Stack is an ordered data structure that supports two functions - push and pop.pu
 The adding and removal of elements take a special order. The last element added to a stack will be the first element to be removed from it, when called using push and pop respectively.
 
 Hints:You can use an array to represent the stack in your class. Then use the array push/pop or shift/unshift methods to get the element in or out of the array.
+
+## Day 5
+
+### Challenge 6 
+
+I have attached a CSV file here that contains the data for the percentage of computerized schools in each state of India.
+
+Please write a program that reads this file, sort the data based on the percentage in descending order and print the sorted data to the console. So, when you run this program, you will see the state with the maximum computerized school at the top.
+
+The only rule we have here is - To sort the data, use the bubble sort algorithm.

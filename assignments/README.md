@@ -469,3 +469,7 @@ Implement Selection Sort & Bubbule Sort
 ### Day 04 
 1) Given a number `n` write a recursive function to calculate the multiplication from 1-n
 2) Implement Merge sort
+
+### Day 05 
+
+Implement Quick Sort 
