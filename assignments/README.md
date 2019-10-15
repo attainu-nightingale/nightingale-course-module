@@ -440,6 +440,30 @@ firstname, lastname, gender, hometown, username, password
 
 > Due day: _day-1_
 
+## Week 13 
+
+### Weekly Test 
+1) Create a folder called weeklyTests/es6WrapUp inside your repository
+2) setup Babel for this folder (Basic configuration is enough)
+3) Write a class called User with below properties and export it (name it person.js)
+    -> Variables
+        -> `Name` 
+        -> `Age` 
+        -> `Email` 
+    -> Methods
+        -> `constructor`
+            -> set the above properties using constructor 
+        -> `sayHello` 
+            -> This function should print the outpuy saying `Hey {name}, How are you doing?`
+4) import the above class in a file called index.js and create 2 objects with the choice of your own values for the properties and `sayHello`  
+5) Write a javascript closure to count the number of button clicks (UI is not needed, but you are free to do) 
+6) Write a module inside module.js and write a sort function inside the module file and export the module. Given an input, it has to sort the array and return the sorted output. 
+7) import the module inside index.js and sort a random array of your choice 
+8) Given an array of objects of your choice, where each object should have the properties `name`, `age`
+    -> Use the filter function to get the array of objects who's age is less than 30 
+    -> Use a reduce function to find the average age of the people (Hint: sum_the_age/totalLength)
+9) Repeat question 8 using the methods of lodash  
+
 ## Week 14
 
 ### Day 01 
