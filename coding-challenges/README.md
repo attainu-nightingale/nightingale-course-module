@@ -385,3 +385,16 @@ I have attached a CSV file here that contains the data for the percentage of com
 Please write a program that reads this file, sort the data based on the percentage in descending order and print the sorted data to the console. So, when you run this program, you will see the state with the maximum computerized school at the top.
 
 The only rule we have here is - To sort the data, use the bubble sort algorithm.
+
+# Week 16 
+
+## Day 2
+Write a Javascript function that finds all the number pairs in an array whose sum is equal to a given number.
+
+For example, if `findPairs` is our number, here are some sample calls -
+
+`findPairs(10, [1, 2, 4, 5, 6, 10, 12])` will return `[4, 6]` as adding those two together produces 10.
+
+Remember, we are trying to find all pairs, which means set of two values.
+
+Start brute forcing it to find a N^2 solution. And then see if you can improve it further.
