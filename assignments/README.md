@@ -503,3 +503,30 @@ Implement Quick Sort
     `Use Merge Sort`
 
 4) Repeat Question 3 using `Quick Sort`. *Ignore the original order (Initial order can change)
+
+## Week 16 
+### Day 2
+// Implement the below functions for both single and double linked list 
+addFirst(){
+  // add the new node in the beginning of the list 
+}
+
+addEnd(){
+  // add the new node in the end of the list 
+}
+
+addMiddle(){
+  // add the element in the middle of the list 
+}
+
+deleteFirst(){
+  // delete the first node in the list 
+}
+
+deleteEnd(){
+  // delete the last node in the list 
+}
+
+deleteMiddle(){
+  // delete the node in the middle
+}
