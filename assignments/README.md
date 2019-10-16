@@ -530,7 +530,7 @@ Implement Quick Sort
 
 ## Week 16 
 ### Day 2
-// Implement the below functions for both single and double linked list 
+// Implement the below functions for single linked list
 addFirst(){
   // add the new node in the beginning of the list 
 }
@@ -554,3 +554,7 @@ deleteEnd(){
 deleteMiddle(){
   // delete the node in the middle
 }
+
+### Day 3 
+1) Implement Stack using linked list 
+2) Implement Queue using linked list 
