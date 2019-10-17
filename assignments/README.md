@@ -558,3 +558,9 @@ deleteMiddle(){
 ### Day 3 
 1) Implement Stack using linked list 
 2) Implement Queue using linked list 
+
+### Day 4 
+Implement Hash Table 
+    i) Set Item 
+    ii) Get Item 
+    iii) Delete Item 
