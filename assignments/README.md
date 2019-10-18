@@ -564,3 +564,6 @@ Implement Hash Table
     i) Set Item 
     ii) Get Item 
     iii) Delete Item 
+
+### Day 5
+Implement given an array which is a max Heap [27, 15, 24, 9, 13, 7, 3], write a new function to insert the element and write a function to delete the element. 
