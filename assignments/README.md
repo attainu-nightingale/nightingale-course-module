@@ -567,3 +567,7 @@ Implement Hash Table
 
 ### Day 5
 Implement given an array which is a max Heap [27, 15, 24, 9, 13, 7, 3], write a new function to insert the element and write a function to delete the element. 
+
+## Week 17 
+### Day 1
+Extend last question to delete any element from the heap. Given an element, find it's index and delete from the heap and heapify the tree.
