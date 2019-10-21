@@ -407,3 +407,11 @@ An element in a sorted array can be found in O(log n) time via binary search. Bu
 
 ## Day 5
 Given an array of random numbers, Push all the zero’s of a given array to the end of the array. For example, if the given arrays is {1, 9, 8, 4, 0, 0, 2, 7, 0, 6, 0}, it should be changed to {1, 9, 8, 4, 2, 7, 6, 0, 0, 0, 0}. The order of all other elements should be same. Expected time complexity is O(n) and extra space is O(1).
+
+# Week 17
+
+## Day 1 
+Given an array of n distinct elements, the task is to find all elements in array which have at-least two greater elements than themselves.
+Input: [2, 8, 7, 1, 5]
+Output: 2 , 1,  5 
+Solve the above question in O(n) time.  
