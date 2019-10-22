@@ -415,3 +415,10 @@ Given an array of n distinct elements, the task is to find all elements in array
 Input: [2, 8, 7, 1, 5]
 Output: 2 , 1,  5 
 Solve the above question in O(n) time.  
+
+## Day 2 
+Given an array A[] consisting 0s, 1s and 2s. The task is to write a function that sorts the given array. The functions should put all 0s first, then all 1s and all 2s in last.
+
+Input: {0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0, 1}
+Output: {0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2}
+Time Complexity: O(n) 

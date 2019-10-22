@@ -571,3 +571,9 @@ Implement given an array which is a max Heap [27, 15, 24, 9, 13, 7, 3], write a 
 ## Week 17 
 ### Day 1
 Extend last question to delete any element from the heap. Given an element, find it's index and delete from the heap and heapify the tree.
+
+### Day 2 
+Implement priority queue by extending the heap implemented earlier, and have the below functions
+1) Add item with priority 
+2) Remove given item 
+3) Change the priority for the item 
