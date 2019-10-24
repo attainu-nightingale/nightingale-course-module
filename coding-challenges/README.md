@@ -281,8 +281,6 @@ You can treat small case and big case of same characters as different characters
 
 Hint: Use javascript object for storage 
 
-# Week 14 
-
 ## Day 2 
 Write a Javascript function that takes a string and compresses it.
 
@@ -290,16 +288,12 @@ You can use a simple character count algorithm for the compression. So for each 
 
 So an input string like AAABCCDDDD will become  A3BC2D4.
 
-# Week 14 
-
 ## Day 4 
 Consider two sorted arrays, A and B.
 
 Write a Javascript function that merges these two arrays maintaining the sorted order.
 
 We know that this can be easily achieved using .concat() and then .sort() methods. However, for this problem, you cannot use the .sort() function. Try to do the merge without it.
-
-# Week 14 
 
 ## Day 5
 Write a Javascript function that finds all *permutations of an input string*.
@@ -422,3 +416,14 @@ Given an array A[] consisting 0s, 1s and 2s. The task is to write a function tha
 Input: {0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0, 1}
 Output: {0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2}
 Time Complexity: O(n) 
+
+## Day 3
+Given a linked list, find the loop inside the linked list
+
+## Day 4 
+Reverse a single linked list
+Given pointer to the head node of a linked list, the task is to reverse the linked list. We need to reverse the list by changing links between nodes.
+Input: Head of following linked list
+1->2->3->4->NULL
+Output: Linked list should be changed to,
+4->3->2->1->NULL

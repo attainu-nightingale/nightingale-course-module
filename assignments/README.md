@@ -577,3 +577,10 @@ Implement priority queue by extending the heap implemented earlier, and have the
 1) Add item with priority 
 2) Remove given item 
 3) Change the priority for the item 
+
+### Day 3 
+Implement BST insertion 
+Implement findElement function to search inside BST 
+
+### Day 4 
+Implement BST deletion 
