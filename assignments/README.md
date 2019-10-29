@@ -584,3 +584,11 @@ Implement findElement function to search inside BST
 
 ### Day 4 
 Implement BST deletion 
+
+### Day 5 
+No assignment 
+
+## Week 18
+### Day 1
+1) Implement BSF 
+2) Implement DSF 

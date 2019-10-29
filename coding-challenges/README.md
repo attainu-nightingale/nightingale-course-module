@@ -427,3 +427,25 @@ Input: Head of following linked list
 1->2->3->4->NULL
 Output: Linked list should be changed to,
 4->3->2->1->NULL
+
+## Day 5 
+Given an array, print the Next Greater Element (NGE) for every element. The Next greater Element for an element x is the first greater element on the right side of x in array. Elements for which no greater element exist, consider next greater element as -1.
+Input:  [4, 5, 2, 25]
+Output:
+  4      -->   5
+  5      -->   25
+  2      -->   25
+  25     -->   -1
+Time Complexity Required: O(n)
+Data structure to use: Stack
+
+# Week 18 
+
+## Day 1 
+Given an n x n matrix .In the given matrix, you have to print the elements of the matrix in the snake pattern.
+Input :mat[][] = [[10, 20, 30, 40],
+                  [15, 25, 35, 45],
+                  [27, 29, 37, 48],
+                  [32, 33, 39, 50]];
+Output : 10 20 30 40 45 35 25 15 27 29
+        37 48 50 39 33 32
