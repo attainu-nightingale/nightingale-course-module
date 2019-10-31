@@ -441,7 +441,7 @@ Data structure to use: Stack
 
 # Week 18 
 
-## Day 1 
+## Day 2 
 Given an n x n matrix .In the given matrix, you have to print the elements of the matrix in the snake pattern.
 Input :mat[][] = [[10, 20, 30, 40],
                   [15, 25, 35, 45],
@@ -450,7 +450,7 @@ Input :mat[][] = [[10, 20, 30, 40],
 Output : 10 20 30 40 45 35 25 15 27 29
         37 48 50 39 33 32
 
-## Day 2 
+## Day 3 
 Given a boolean 2D array, where each row is sorted. Find the row with the maximum number of 1s.
 Input matrix
 0 1 1 1
@@ -459,3 +459,8 @@ Input matrix
 0 0 0 0
 
 Output: 2
+
+## Day 4
+Given two binary strings, return their sum (also a binary string).
+Input:  a = "11", b = "1"
+Output: "100"
