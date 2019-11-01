@@ -464,3 +464,15 @@ Output: 2
 Given two binary strings, return their sum (also a binary string).
 Input:  a = "11", b = "1"
 Output: "100"
+
+## Day 5
+A Duck number is a number which has zeroes present in it, but there should be no zero present in the beginning of the number. For example 3210, 8050896, 70709 are all duck numbers whereas 02364, 03401 are not.
+The task is to check whether the given number is a duck number or not.
+
+Since java script can't preserve the leading 0, add this additional step in your program.
+number = "number_in_string_format";
+if(leading_zero_exist){
+    // not a duck number
+}
+parseInt(number)
+continue with the logic on the number
