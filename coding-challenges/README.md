@@ -479,6 +479,7 @@ continue with the logic on the number
 
 # Week 19 
 ## Day 1 
+Pattern: Sliding Window
 Given an array of positive numbers and a positive number ‘k’, find the maximum sum of any contiguous subarray of size ‘k’.
 
 Input: [2, 1, 5, 1, 3, 2], k=3
@@ -489,3 +490,25 @@ Output: 7
 Explanation: Subarray with maximum sum is [3, 4].
 
 Time Complexity: O(n)
+
+## Day 2 
+Pattern: Sliding Window
+Use the same pattern as yesterday's CC with little modifications
+Given an array of positive numbers and a positive number ‘S’, find the length of the smallest contiguous subarray whose sum is greater than or equal to ‘S’. Return 0, if no such subarray exists.
+Input: [2, 1, 5, 2, 3, 2], S=7
+Output: 2
+Explanation: The smallest subarray with a sum great than or equal to '7' is [5, 2].
+Input: [2, 1, 5, 2, 8], S=7
+Output: 1
+Explanation: The smallest subarray with a sum greater than or equal to '7' is [8].
+
+## Day 3
+Pattern: Two Pointers 
+Given an array of sorted numbers and a target sum, find a pair in the array whose sum is equal to the given target.
+Write a function to return the indices of the two numbers (i.e. the pair) such that they add up to the given target.
+Input: [1, 2, 3, 4, 6], target=6
+Output: [1, 3]
+Explanation: The numbers at index 1 and 3 add up to 6: 2+4=6
+Input: [2, 5, 9, 11], target=11
+Output: [0, 2]
+Explanation: The numbers at index 0 and 2 add up to 11: 2+9=11
