@@ -512,3 +512,31 @@ Explanation: The numbers at index 1 and 3 add up to 6: 2+4=6
 Input: [2, 5, 9, 11], target=11
 Output: [0, 2]
 Explanation: The numbers at index 0 and 2 add up to 11: 2+9=11
+
+## Day 4
+Pattern: Two Pointers
+Given an array of sorted numbers, remove all duplicates from it. You should not use any extra space; after removing the duplicates in-place return the new length of the array.
+Input: [2, 3, 3, 3, 6, 9, 9]
+Output: 4
+Explanation: The first four elements after removing the duplicates will be [2, 3, 6, 9].
+Input: [2, 2, 2, 11]
+Output: 2
+Explanation: The first two elements after removing the duplicates will be [2, 11].
+
+## Week 20 
+
+# Day 1
+
+Any number will be called a happy number if, after repeatedly replacing it with a number equal to the sum of the square of all of its digits, leads us to number ‘1’. All other (not-happy) numbers will never reach ‘1’. Instead, they will be stuck in a cycle of numbers which does not include ‘1’.
+
+Input: 23   
+Output: true (23 is a happy number)  
+Explanations: Here are the steps to find out that 23 is a happy number:
+
+1) 2^2 + 3^2 = 4 + 9 = 13
+2) 1^2 + 3^2 = 1 + 9 = 10
+3) 1^2 + 0^2 = 1
+
+# Day 2 
+
+Find the minimum depth of a binary tree. The minimum depth is the number of nodes along the shortest path from the root node to the nearest leaf node.
