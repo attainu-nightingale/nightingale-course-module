@@ -627,3 +627,41 @@ Input:
 ]
 Output: false
 Explanation: Same as Example 1, except with the 5 in the top left corner being modified to 8. Since there are two 8's in the top left 3x3 sub-box, it is invalid.
+
+### Monthlly Test DS & Algo 
+1)  Given a string, find the length of the longest substring which has no repeating characters.
+
+    Input: String="aabccbb"
+    Output: 3
+    Explanation: The longest substring without any repeating characters is "abc".
+
+    Input: String="abbbb"
+    Output: 2
+    Explanation: The longest substring without any repeating characters is "ab".
+
+    Input: String="abccde"
+    Output: 3
+    Explanation: Longest substrings without any repeating characters are "abc" & "cde".
+
+
+2)  Given an array containing 0s, 1s and 2s, sort the array in-place. You should treat numbers of the array as objects, hence, we can’t count 0s, 1s, and 2s to recreate the array.
+
+    The flag of the Netherlands consists of three colors: red, white and blue; and since our input array also consists of three different numbers that is why it is called Dutch National Flag problem.
+
+    Input: [1, 0, 2, 1, 0]
+    Output: [0 0 1 1 2]
+
+3)  Given a binary tree, populate an array to represent its zigzag level order traversal. You should populate the values of all nodes of the first level from left to right, then right to left for the next level and keep alternating in the same manner for the following levels.
+
+4)  Given a binary tree and a number sequence, find if the sequence is present as a root-to-leaf path in the given tree.
+    Ex. Sequence: [1, 9, 9]
+
+5)  Given an array of non-negative integers, you are initially positioned at the first index of the array.
+
+    Each element in the array represents your maximum jump length at that position.
+
+    Your goal is to reach the last index in the minimum number of jumps.
+    Input: [2,3,1,1,4]
+    Output: 2
+    Explanation: The minimum number of jumps to reach the last index is 2.
+        Jump 1 step from index 0 to 1, then 3 steps to the last index.
