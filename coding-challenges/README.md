@@ -540,3 +540,19 @@ Explanations: Here are the steps to find out that 23 is a happy number:
 # Day 2 
 
 Find the minimum depth of a binary tree. The minimum depth is the number of nodes along the shortest path from the root node to the nearest leaf node.
+
+# Day 3 
+
+Given a binary tree and a node, find the level order successor of the given node in the tree. The level order successor is the node that appears right after the given node in the level order traversal.
+
+# Day 4
+
+Find the Corrupt Pair
+Pattern: Cyclic Sort
+We are given an unsorted array containing ‘n’ numbers taken from the range 1 to ‘n’. The array originally contained all the numbers from 1 to ‘n’, but due to a data error, one of the numbers got duplicated which also resulted in one number going missing. Find both these numbers.
+Input: [3, 1, 2, 5, 2]
+Output: [2, 4]
+Explanation: '2' is duplicated and '4' is missing.
+Input: [3, 1, 2, 3, 6, 4]
+Output: [3, 5]
+Explanation: '3' is duplicated and '5' is missing.

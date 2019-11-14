@@ -590,8 +590,13 @@ No assignment
 
 ## Week 18
 ### Day 1
-1) Implement BSF 
-2) Implement DSF 
+1) Implement BSF for trees
+2) Implement DSF for trees
+
+## Week 19
+### Day 1
+1) Implement BSF for graphs
+2) Implement DSF for graphs
 
 ### Weekly Test 
 Validate Sudoku
@@ -665,3 +670,12 @@ Explanation: Same as Example 1, except with the 5 in the top left corner being m
     Output: 2
     Explanation: The minimum number of jumps to reach the last index is 2.
         Jump 1 step from index 0 to 1, then 3 steps to the last index.
+
+## Week 20 
+
+### Day 03
+Create React Hello World App 
+
+### Day 04 
+
+Create a LoginForm component that renders two inputs and a button to render as a login form.
