@@ -682,3 +682,11 @@ Create a LoginForm component that renders two inputs and a button to render as a
 
 ### Day 5
 React Simple Calculator
+
+### Weekly Test - Week 20 
+Create a temperature converter
+1) Create Component called Input which should return an input box
+2) Create a component called Temperature and  create 2 input boxes using the Input component created in step-1. One input represents the temperature in centigrade and another represents the temperature  in Fahrenheit.
+3) Your job is to communicate between these 2 inputs and convert from one format to the other format when there is a change in the input.
+4) Maintain a state in Temperature component which will hold both the values while there is a change in the input
+4) Integrate Bootstrap and use the classes of bootstrap for the inputs
