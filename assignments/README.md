@@ -679,3 +679,6 @@ Create React Hello World App
 ### Day 04 
 
 Create a LoginForm component that renders two inputs and a button to render as a login form.
+
+### Day 5
+React Simple Calculator
