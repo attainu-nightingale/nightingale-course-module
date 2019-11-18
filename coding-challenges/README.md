@@ -559,3 +559,16 @@ Explanation: '3' is duplicated and '5' is missing.
 
 # Day 5
 Given a binary tree and a number ‘S’, find all paths in the tree such that the sum of all the node values of each path equals ‘S’. Please note that the paths can start or end at any node but all paths must follow direction from parent to child (top to bottom).
+
+## Week 21 
+
+# Day 1
+Given the head of a Singly LinkedList, write a method to return the middle node of the LinkedList.
+If the total number of nodes in the LinkedList is even, return the second middle node.
+Input: 1 -> 2 -> 3 -> 4 -> 5 -> null
+Output: 3
+Input: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> null
+Output: 4
+Input: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> null
+Output: 4
+Time Complexity: O(n), You should loop on the linked list only once. You shouldn't  count the number of nodes to find the middle.

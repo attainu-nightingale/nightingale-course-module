@@ -690,3 +690,10 @@ Create a temperature converter
 3) Your job is to communicate between these 2 inputs and convert from one format to the other format when there is a change in the input.
 4) Maintain a state in Temperature component which will hold both the values while there is a change in the input
 4) Integrate Bootstrap and use the classes of bootstrap for the inputs
+
+## Week 21
+
+### Day 01 
+assignments/images/week20-day01-home
+assignments/images/week20-day01-aboutus
+assignments/images/week20-day01-contactus
