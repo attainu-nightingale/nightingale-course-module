@@ -572,3 +572,16 @@ Output: 4
 Input: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> null
 Output: 4
 Time Complexity: O(n), You should loop on the linked list only once. You shouldn't  count the number of nodes to find the middle.
+
+# Day 2 
+Given the head of a Singly LinkedList, write a method to check if the LinkedList is a palindrome or not.
+Your algorithm should use constant space and the input LinkedList should be in the original form once the algorithm is finished. The algorithm should have O(N) time complexity where ‘N’ is the number of nodes in the LinkedList.
+Input: 2 -> 4 -> 6 -> 4 -> 2 -> null
+Output: true
+Input: 2 -> 4 -> 6 -> 4 -> 2 -> 2 -> null
+Output: false
+
+# Day 3 
+
+Given the head of a LinkedList and a number ‘k’, reverse every ‘k’ sized sub-list starting from the head.
+If, in the end, you are left with a sub-list with less than ‘k’ elements, reverse it too.
