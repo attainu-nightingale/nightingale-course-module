@@ -589,3 +589,6 @@ If, in the end, you are left with a sub-list with less than ‘k’ elements, re
 # Day 4 
 Given the head of a LinkedList and a number ‘k’, reverse every alternating ‘k’ sized sub-list starting from the head.
 If, in the end, you are left with a sub-list with less than ‘k’ elements, reverse it too.
+
+# Day 5
+Given a binary tree, connect each node with its level order successor. The last node of each level should point to a null node.

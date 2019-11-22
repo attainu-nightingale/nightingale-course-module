@@ -697,3 +697,16 @@ Create a temperature converter
 assignments/images/week20-day01-home
 assignments/images/week20-day01-aboutus
 assignments/images/week20-day01-contactus
+
+### Day 05 
+Simple Redux Store
+Create a Redux store and reducer with the following initial state :
+
+currentScore: 0
+The reducer should accept the following actions -
+
+UPDATE_BONUS
+LEVEL_COMPLETED
+LIFE_LOST
+
+UPDATE_BONUS should increment the currentScore by 100 LEVEL_COMPLETED should increment the currentScore by 500 LIFE_LOST should decrement the currentScore by 250
