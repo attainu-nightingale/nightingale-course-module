@@ -592,3 +592,8 @@ If, in the end, you are left with a sub-list with less than ‘k’ elements, re
 
 # Day 5
 Given a binary tree, connect each node with its level order successor. The last node of each level should point to a null node.
+
+## Week 22
+
+# Day 1
+Given a binary tree, connect each node with its level order successor. The last node of each level should point to the first node of the next level.
