@@ -597,3 +597,10 @@ Given a binary tree, connect each node with its level order successor. The last 
 
 # Day 1
 Given a binary tree, connect each node with its level order successor. The last node of each level should point to the first node of the next level.
+
+# Day 2
+Given a string, find all of its permutations preserving the character sequence but changing case.
+Input: "ad52"
+Output: "ad52", "Ad52", "aD52", "AD52"
+Input: "ab7c"
+Output: "ab7c", "Ab7c", "aB7c", "AB7c", "ab7C", "Ab7C", "aB7C", "AB7C"
