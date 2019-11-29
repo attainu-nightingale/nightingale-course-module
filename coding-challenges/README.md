@@ -604,3 +604,23 @@ Input: "ad52"
 Output: "ad52", "Ad52", "aD52", "AD52"
 Input: "ab7c"
 Output: "ab7c", "Ab7c", "aB7c", "AB7c", "ab7C", "Ab7C", "aB7C", "AB7C"
+
+# Day 3 
+Given an unsorted array of numbers, find the ‘K’ largest numbers in it.
+Input: [3, 1, 5, 12, 2, 11], K = 3
+Output: [5, 12, 11]
+Input: [5, 12, 11, -1, 12], K = 3
+Output: [12, 11, 12]
+Time Complexity: O(n log(k))
+
+# Day 4 
+Given an array of characters where each character represents a fruit tree, you are given two baskets and your goal is to put maximum number of fruits in each basket. The only restriction is that each basket can have only one type of fruit.
+You can start with any tree, but once you have started you can’t skip a tree. You will pick one fruit from each tree until you cannot, i.e., you will stop when you have to pick from a third fruit type.
+Write a function to return the maximum number of fruits in both the baskets.
+Input: Fruit=['A', 'B', 'C', 'A', 'C']
+Output: 3
+Explanation: We can put 2 'C' in one basket and one 'A' in the other from the subarray ['C', 'A', 'C']
+Input: Fruit=['A', 'B', 'C', 'B', 'B', 'C']
+Output: 5
+Explanation: We can put 3 'B' in one basket and two 'C' in the other basket.
+This can be done if we start with the second letter: ['B', 'C', 'B', 'B', 'C']
