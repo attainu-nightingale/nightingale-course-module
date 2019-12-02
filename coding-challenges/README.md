@@ -624,3 +624,10 @@ Input: Fruit=['A', 'B', 'C', 'B', 'B', 'C']
 Output: 5
 Explanation: We can put 3 'B' in one basket and two 'C' in the other basket.
 This can be done if we start with the second letter: ['B', 'C', 'B', 'B', 'C']
+
+## Week 23 
+
+# Day 01 
+In a non-empty array of numbers, every number appears exactly twice except two numbers that appear only once. Find the two numbers that appear only once.
+Input: [1, 4, 2, 1, 3, 5, 6, 2, 3, 5]
+Output: [4, 6]
