@@ -631,3 +631,12 @@ This can be done if we start with the second letter: ['B', 'C', 'B', 'B', 'C']
 In a non-empty array of numbers, every number appears exactly twice except two numbers that appear only once. Find the two numbers that appear only once.
 Input: [1, 4, 2, 1, 3, 5, 6, 2, 3, 5]
 Output: [4, 6]
+
+# Day 03 
+Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
+Examples input/output:
+XO("ooxx") => true
+XO("xooxx") => false
+XO("ooxXm") => true
+XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
+XO("zzoo") => false
