@@ -710,3 +710,9 @@ LEVEL_COMPLETED
 LIFE_LOST
 
 UPDATE_BONUS should increment the currentScore by 100 LEVEL_COMPLETED should increment the currentScore by 500 LIFE_LOST should decrement the currentScore by 250
+
+## Week 24 
+
+### Day 05 
+Implement a blog application using the below APIs. All the communication should happen via Redux :slightly_smiling_face: Write down the requirements by yourself from the APIs.
+https://jsonplaceholder.typicode.com/
