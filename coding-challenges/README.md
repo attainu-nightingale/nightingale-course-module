@@ -691,3 +691,27 @@ In this little assignment you are given a string of space separated numbers, and
 highAndLow("1 2 3 4 5");  // return "5 1"
 highAndLow("1 2 -3 4 5"); // return "5 -3"
 highAndLow("1 9 3 4 -5"); // return "9 -5"
+
+### Day 03 
+Write a function that takes a string of braces, and determines if the order of the braces is valid. It should return true if the string is valid, and false if it's invalid.
+This Kata is similar to the Valid Parentheses Kata, but introduces new characters: brackets [], and curly braces {}. Thanks to @arnedag for the idea!
+All input strings will be nonempty, and will only consist of parentheses, brackets and curly braces: ()[]{}.
+What is considered Valid?
+A string of braces is considered valid if all braces are matched with the correct brace.
+"(){}[]"   =>  True
+"([{}])"   =>  True
+"(}"       =>  False
+"[(])"     =>  False
+"[({})](]" =>  False
+
+### Day 04 
+The museum of incredible dull things
+The museum of incredible dull things wants to get rid of some exhibitions. Miriam, the interior architect, comes up with a plan to remove the most boring exhibitions. She gives them a rating, and then removes the one with the lowest rating.
+However, just as she finished rating all exhibitions, she's off to an important fair, so she asks you to write a program that tells her the ratings of the items after one removed the lowest one. Fair enough.
+Task
+Given an array of integers, remove the smallest value. Do not mutate the original array/list. If there are multiple elements with the same value, remove the one with a lower index. If you get an empty array/list, return an empty array/list.
+Don't change the order of the elements that are left.
+Examples
+removeSmallest([1,2,3,4,5]) = [2,3,4,5]
+removeSmallest([5,3,2,1,4]) = [5,3,2,4]
+removeSmallest([2,2,1,2,1]) = [2,2,2,1]
